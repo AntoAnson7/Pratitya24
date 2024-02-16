@@ -1,0 +1,37 @@
+
+.Home{
+    height: 200vh;
+    background-image: url("../assets//home.png");
+    background-size: cover;
+}
+
+.Home{
+    font-family: arab;
+    color: #E9C79A;
+}
+
+.r1{
+    padding-top: 70px;
+    height: 100vh;
+}
+
+.r2{
+    padding: 50px;
+    height: 80vh;
+}
+
+.r3{
+    padding: 50px;
+    background-color: lightblue;
+    height: 100vh;
+    background-color: #08011e;
+}
+
+.r2-head,.r3-head{
+    display: flex;
+    align-items: center;
+    height: 100px;
+    justify-content: end;
+    padding-right: 80px;
+    font-size: 70px;
+}

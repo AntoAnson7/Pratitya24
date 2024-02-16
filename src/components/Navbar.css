@@ -1,0 +1,48 @@
+.Navbar{
+    position: absolute;
+    height: 70px;
+    z-index: 100;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 10px;
+}
+
+.logo-class {
+    position: absolute;
+    left: 45%;
+}
+
+.Navbar .logo{
+    width: 70px;
+    transition: all 250ms;
+}
+.logo:hover{
+    cursor: pointer;
+    width: 80px;
+}
+
+.nav-links {
+    position: absolute;
+    right: 30px;
+    display: flex;
+    gap: 20px;
+}
+
+.nav-links p {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+    font-family: arab;
+    font-size: 30px;
+    color: #E9C79A;
+    transition: all 250ms;
+}
+
+.nav-links p:hover{
+    cursor: pointer;
+    font-size: 35px;
+}

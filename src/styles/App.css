@@ -1,0 +1,9 @@
+@font-face {
+    font-family: arab;
+    src: url("../../public/Bismillah\ Script.ttf");
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
