@@ -1,0 +1,19 @@
+.Recard{
+    background-size: cover;
+    border-radius: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 16px;
+    width: 350px;
+    height: 400px;
+    overflow: hidden;
+    margin-bottom: 50px; 
+    transition: all 0.2s ease;
+}
+.Recard:hover{
+    transform: scale(1.08);
+    cursor: pointer;
+}
+.card-pic{
+    width: 100%;
+    border-radius: 15px;
+}

@@ -1,6 +1,5 @@
 import React from 'react'
 import "./Home.css"
-import home from "../assets/home.png"
 
 function Home() {
   return (
@@ -8,14 +7,13 @@ function Home() {
         <div className="r1">
         </div>
 
-        <div className="r2">
+        <div className="r2" id="about">
           <div className="r2-head">
             About us
           </div>
           <div className="r2-content">
             dijcic
           </div>
-          
         </div>
 
         <div className="r3">
