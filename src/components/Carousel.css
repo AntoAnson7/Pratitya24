@@ -1,0 +1,99 @@
+
+.carousel-container {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+ 
+}
+
+.slide {
+  flex : 0 0 100%;
+  height: 100%;
+  width:60%;
+  max-width: 100%;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  padding: 10px;
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.image-alt {
+  background: rgba(0, 0, 0, 0.5);
+  padding: 5px;
+}
+
+.arrow {
+  position: absolute;
+  font-size: 20px;
+  background: none;
+  border: none;
+  color: white;
+  cursor: pointer;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.left-arrow {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  left: 50px;
+  transition: all 0.2s;
+}
+
+.right-arrow {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: rgba(0, 0, 0, 0.5);
+  right: 50px;
+  transition: all 0.2s;
+}
+.right-arrow:hover,.left-arrow:hover{
+  cursor: pointer;
+}
+
+.indicators {
+  display: flex;
+  position: absolute;
+  bottom: 10px;
+ 
+}
+
+.indicator {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: #fff;
+  margin: 0 4px;
+  cursor: pointer;
+}
+
+.indicator.active {
+  background-color: #000; 
+}
+.image-alt{
+display:  none;
+}
+
+@media (max-width:600px){
+  .slide{
+    width: 100%;
+  }
+  .right-arrow{
+    right: 10px ;
+  }
+  .left-arrow{
+    left: 10px;
+  }
+}

@@ -18,7 +18,7 @@
 }
 @media (max-width: 600px) {
     .Events {
-        background-image: url("../assets/event-small.png");
+        background-image: url("https://firebasestorage.googleapis.com/v0/b/pratitya-6b78c.appspot.com/o/event-small.png?alt=media&token=4b9fd7af-407c-41d3-a932-7d0b75244975");
         background-size: contain; 
         height: auto; 
         background-repeat: no-repeat;

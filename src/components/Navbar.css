@@ -23,6 +23,9 @@
     width: 120px;
 }
 
+.nav-links a{
+    scroll-behavior: smooth;
+}
 .nav-links {
     position: absolute;
     right: 30px;
@@ -42,7 +45,7 @@
     transition: all 250ms;
 }
 
-.nav-links p:hover{
+.nav-links p:hover,.nav-links a:hover{
     cursor: pointer;
     font-size: 35px;
 }

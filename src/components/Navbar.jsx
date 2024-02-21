@@ -1,5 +1,4 @@
 import React from 'react'
-import logo from "../assets/logo.png"
 import "./Navbar.css"
 import { useNavigate } from 'react-router-dom'
 import { useState } from 'react'
@@ -11,7 +10,7 @@ function Navbar() {
   return (
     <div className='Navbar'>
         <div className="logo-class">
-            <img src={logo} className='logo' onClick={()=>navigate("/")}/>
+            <img src={"https://firebasestorage.googleapis.com/v0/b/pratitya-6b78c.appspot.com/o/logo.png?alt=media&token=0b87dbfd-7f60-46dc-969f-4bf189bb292b"} className='logo' onClick={()=>navigate("/")}/>
         </div>
 
         <div class="nav-links">

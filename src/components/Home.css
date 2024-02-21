@@ -1,8 +1,11 @@
-
+body{
+    overflow-x: hidden;
+}
 .Home{
     height: 200vh;
-    background-image: url("https://firebasestorage.googleapis.com/v0/b/pratitya-6b78c.appspot.com/o/home.png?alt=media&token=2f09a97d-4b55-4b15-8b90-c4d8011a5673");
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/pratitya-6b78c.appspot.com/o/home-new-blend.png?alt=media&token=3873fb5f-b0f3-44ef-a13e-d16738d44589");
     background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .Home{
@@ -22,9 +25,8 @@
 
 .r3{
     padding: 50px;
-    background-color: lightblue;
-    height: 100vh;
-    background-color: #000009;
+    height: auto;
+    background-color: #1a0300;
 }
 
 .r2-head,.r3-head{
@@ -35,7 +37,37 @@
     padding-right: 80px;
     font-size: 70px;
 }
-
+.empty{
+    background-color: #fff;
+    height: 8vh;
+    background: rgb(0, 0, 0);
+    background: rgb(0, 0, 0);
+    background: linear-gradient(to bottom, black,#1a0300);
+}
+.r2-content{
+    padding-top:60px ;
+    display: flex;
+    width: 100%;
+}
+.r2-text{
+    /* font-family: sans-serif; */
+    width: 30vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    text-align: center;
+}
+.r2-carousel{
+    display: flex;
+    justify-content: start;
+    width: 50vw;
+    height: 50vh;
+}
+.slide{
+    display: flex;
+    justify-content: start;
+}
 
 @media (max-width: 600px) {
     .r1{
@@ -47,9 +79,26 @@
 
     .Home{
         background-color: #000009;
-        background-image: url("../assets/home-small.png");
+        background-image: url("https://firebasestorage.googleapis.com/v0/b/pratitya-6b78c.appspot.com/o/home-small.png?alt=media&token=ebbd2940-e4f8-4bb5-816f-e55123508e53");
         background-size: contain;
         background-repeat: no-repeat;
+    }
+
+    .r2{
+        height: auto;
+        background-color: #1a0300;
+    }
+    .r2-text{
+        width: 100%;
+        font-size: 25px;
+    }
+    .r2-content{
+        align-items: center;
+        padding-top: 0;
+        flex-direction: column;
+    }
+    .r2-carousel{
+        width: 100%;
     }
 
 }
