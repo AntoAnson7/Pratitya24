@@ -1,0 +1,17 @@
+.results{
+    background-color: black;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.results p{
+    font-size: 30px;
+    font-style: italic;
+}
+
+@media (max-width: 600px) {
+    .results{
+        text-align: center;
+    }
+}

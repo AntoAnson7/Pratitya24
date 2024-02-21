@@ -10,27 +10,27 @@
 }
 
 .logo-class {
-    position: absolute;
-    left: 46%;
+    width: 50vw;
+    flex: 1fr;
+    display: flex;
+    justify-content: space-between;
+}
+.nav-links {
+    flex: 1fr;
+    width: 50vw;
+    display: flex;
+    justify-content: end;
+    gap: 20px;
 }
 
-.Navbar .logo{
+
+.Navbar .logo,.Navbar .sg-logo{
     width: 100px;
     transition: all 250ms;
-}
-.logo:hover{
-    cursor: pointer;
-    width: 120px;
 }
 
 .nav-links a{
     scroll-behavior: smooth;
-}
-.nav-links {
-    position: absolute;
-    right: 30px;
-    display: flex;
-    gap: 20px;
 }
 
 .nav-links p,.nav-links a {
@@ -58,23 +58,31 @@
         justify-content: space-between;
     }
     .logo-class{
-        left: 37%;
+        padding: 0;
+    }
+    .logo{
+        position: absolute;
+        left: 38%;
     }
     .nav-links {
         display: none;
     }
     .ham{
         display: block;
+        margin-right: 20px;
     }
     .hidden-menu{
+
         position: absolute;
-        left: 0;
+        right: 0;
         top: 90px;
         width: 95%;
         display: flex;
         flex-direction: column;
+        justify-content: end;
+        align-items: end;
+        padding-right: 20px;
         background-color: rgba(255,255,255,0.3);
-        padding-left: 20px;
     }
     .hidden-menu p{
         font-size: 30px;
@@ -82,4 +90,5 @@
         color: #E9C79A;
         line-height: 60px;
     }
+
 }

@@ -10,6 +10,9 @@ function Navbar() {
   return (
     <div className='Navbar'>
         <div className="logo-class">
+          {/* SAINTGITS LOGO URL HERE */}
+            <img src={"https://firebasestorage.googleapis.com/v0/b/pratitya-6b78c.appspot.com/o/logo.png?alt=media&token=0b87dbfd-7f60-46dc-969f-4bf189bb292b"} className='sg-logo' onClick={()=>navigate("/")}/>
+            {/* PRATITYA LOGO */}
             <img src={"https://firebasestorage.googleapis.com/v0/b/pratitya-6b78c.appspot.com/o/logo.png?alt=media&token=0b87dbfd-7f60-46dc-969f-4bf189bb292b"} className='logo' onClick={()=>navigate("/")}/>
         </div>
 
@@ -30,7 +33,7 @@ function Navbar() {
 
             <p onClick={()=>{setShowMenu(false)
               navigate("/events")}}>Events</p>
-            <p>About us</p>
+            {/* <p>About us</p> */}
           </div>
         ):<></>}
         

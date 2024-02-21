@@ -16,6 +16,30 @@
     padding-top: 110px;
     font-size: 100px;
 }
+
+.res{
+    position: absolute;
+    right: 50px;
+    top: 120px;
+    border: none;
+    height: 50px;
+    width: 150px;
+    border-radius: 30px;
+    background-color: #E9C79A;
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 20px;
+    transition: all 0.2s ease;
+    margin-bottom: 20px;
+    border: 1px solid #E9C79A;
+}
+.res:hover{
+    transform: scale(1.08);
+    cursor: pointer;
+    background-color: #fff;
+}
+
 @media (max-width: 600px) {
     .Events {
         background-image: url("https://firebasestorage.googleapis.com/v0/b/pratitya-6b78c.appspot.com/o/event-small.png?alt=media&token=4b9fd7af-407c-41d3-a932-7d0b75244975");
@@ -29,6 +53,17 @@
     .heading {
         padding-top: 100px; 
         font-size: 50px; 
+    }
+    
+    .res{
+        background-color: transparent;
+        color: #fff;
+        width: 70px;
+        height: 30px;
+        font-size: 12px;
+        top: 90px;
+        right: 10px;
+        z-index: 2000;
     }
 }
 
