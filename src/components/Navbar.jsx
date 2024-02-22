@@ -19,7 +19,7 @@ function Navbar() {
         </div>
 
         <div class="nav-links">
-             <p onClick={()=>navigate("/")} className='home-link'>Home</p>
+             <p onClick={()=>navigate("/Pratitya24")} className='home-link'>Home</p>
              <a href="#about">About</a>
              <p onClick={()=>navigate("/events")} className='events-link'>Events</p>
              <p onClick={()=>navigate("/events/results")}>Results</p>
@@ -32,7 +32,7 @@ function Navbar() {
         {menu==true?(
           <div className="hidden-menu">
             <p onClick={()=>{setShowMenu(false)
-              navigate("/")}}>Home</p>
+              navigate("/Pratitya24")}}>Home</p>
 
             <p onClick={()=>{setShowMenu(false)
               navigate("/events")}}>Events</p>
