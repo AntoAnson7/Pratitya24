@@ -64,6 +64,12 @@ body{
     width: 50vw;
     height: 50vh;
 }
+.r2-carousel iframe{
+    display: flex;
+
+    border-radius: 20px;
+    
+}
 .slide{
     display: flex;
     justify-content: start;
@@ -89,16 +95,28 @@ body{
         background-color: #1a0300;
     }
     .r2-text{
-        width: 100%;
+        width: auto;
+        height: auto;
         font-size: 20px;
+        text-align: center;
+        order: 2;
     }
-    .r2-content{
+    .r2-content{overflow:hidden;
         align-items: center;
         padding-top: 0;
         flex-direction: column;
     }
-    .r2-carousel{
+    .r2-carousel iframe{
         width: 100%;
+height: auto;
+border-radius: 20px;
+order: 1;
+    }
+    .r2-carousel{
+        padding-bottom: 20px;
+        width:auto;
+height: auto;
+        
     }
 
 }

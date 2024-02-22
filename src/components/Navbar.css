@@ -24,15 +24,30 @@
 }
 
 
-.Navbar .logo,.Navbar .sg-logo{
+.Navbar .logo{
     width: 100px;
+    height: 120px;
     transition: all 250ms;
 }
-
+.Navbar .logo:hover{
+cursor: pointer;
+transform: scale(1.2);
+}
+.Navbar .sg-logo{
+    width: 60px;
+    height:70px;
+    padding-top: 30px;
+    padding-left: 20px;
+    transition: all 250ms;
+   
+}
 .nav-links a{
     scroll-behavior: smooth;
 }
-
+.Navbar .sg-logo:hover{
+    cursor: pointer;
+    transform: scale(1.05);
+}
 .nav-links p,.nav-links a {
     color: #fff;
     text-decoration: none;
@@ -49,7 +64,7 @@
     cursor: pointer;
     font-size: 35px;
 }
-.ham{
+.ham{padding-top: 30px;
     display: none;
 }
 

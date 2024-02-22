@@ -22,6 +22,9 @@ function Register() {
         setEve(recRand)
     }
 }
+const redirectToGoogleForm =() => {
+window.open(Event.link,'_blank');
+};
 useEffect(() => {
         randomEventFetch()
 }, []);
@@ -35,7 +38,7 @@ useEffect(() => {
                 <div className="event-image">
                     <img src={Event.poster} alt="" />
                     <div className="reg">
-                        <button className='reg-button'>Register now</button>
+                        <button className='reg-button' onClick={redirectToGoogleForm}>Register now</button>
                     </div>
                 </div>
 

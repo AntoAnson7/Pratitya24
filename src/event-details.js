@@ -9,6 +9,7 @@ export const Events = [
     headNo: "9656066561",
     sub1No: "9188652293",
     sub2No: "9383480394",
+    link: "https://forms.gle/2amFLnLXvbEfCE6y7",
     poster:
       "https://firebasestorage.googleapis.com/v0/b/pratitya-6b78c.appspot.com/o/Event-posters%2FBA-min.jpg?alt=media&token=5bb0701f-84c7-47f6-b377-ec9ad93b70ac",
     descr:
@@ -39,6 +40,7 @@ export const Events = [
     contNo: "9037306540",
     sub1No: "8590320345",
     sub2No: "7560990745",
+    link: "https://forms.gle/M6uZjkM2AaabanAn9",
     poster:
       "https://firebasestorage.googleapis.com/v0/b/pratitya-6b78c.appspot.com/o/Event-posters%2FBestSinger-min.jpg?alt=media&token=add5f7b7-a7ef-49ef-bb2d-13fb086607d0",
     descr:
@@ -99,6 +101,7 @@ export const Events = [
     headNo: "9400214281 ",
     sub1No: "9747244704",
     sub2No: "8086839854",
+    link: "https://forms.gle/hDJa2Y6AyxGL4qx28",
     poster:
       "https://firebasestorage.googleapis.com/v0/b/pratitya-6b78c.appspot.com/o/Event-posters%2Fst-min.jpg?alt=media&token=820df542-4364-448e-840e-4635ef5d0732",
     descr:
@@ -114,6 +117,7 @@ export const Events = [
     headNo: "8547914287",
     sub1No: "8590830145",
     sub2No: "80787 55911",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSetxBnh6OLJIWGuexNs_4Fz0OTH9qYCbR9QGu468_VwXRH4tA/viewform",
     poster:
       "https://firebasestorage.googleapis.com/v0/b/pratitya-6b78c.appspot.com/o/Event-posters%2FTh-min.jpg?alt=media&token=e57ae740-ff91-466f-b90f-cd6735babd31",
     descr:
@@ -159,6 +163,7 @@ export const Events = [
     headNo: "9544450018",
     sub1No: "9778241407",
     sub2No: "7994746962",
+    link: "https://forms.gle/dG3eL5Rz17XeDw26A",
     poster:
       "https://firebasestorage.googleapis.com/v0/b/pratitya-6b78c.appspot.com/o/Event-posters%2FCaligraphy%20Competition.jpg?alt=media&token=de923681-a292-4372-9602-c976d5492ad8",
     descr:
@@ -174,6 +179,7 @@ export const Events = [
     headNo: "7736628528",
     sub1No: "96201 15073",
     sub2No: "88915 25716",
+    link: "https://forms.gle/LJ5L1wAqAvicaXCU6",
     poster:
       "https://firebasestorage.googleapis.com/v0/b/pratitya-6b78c.appspot.com/o/Event-posters%2FPerfume%20Making.jpg?alt=media&token=ca7b5514-0816-4b4c-ae68-4cb048fec939",
     descr:
@@ -190,6 +196,7 @@ export const Events = [
     headNo: "9544453174",
     sub1No: "8606343980",
     sub2No: "9496940988",
+    link: "https://forms.gle/FfRS1RAEL4DAf8797",
     poster:
       "https://firebasestorage.googleapis.com/v0/b/pratitya-6b78c.appspot.com/o/Event-posters%2FPlaystation-min.jpg?alt=media&token=55f5eaa2-7da2-4383-802e-6bede2d61022",
     descr:
@@ -204,6 +211,7 @@ export const Events = [
   //   headNo: "8281601815",
   //   sub1No: "7736896976",
   //   sub2No: "7510704508",
+  //   link:"https://forms.gle/uFUGR8VagTc2i3dA9",
   //   poster:
   //     "https://firebasestorage.googleapis.com/v0/b/pratitya-6b78c.appspot.com/o/2%20(1).png?alt=media&token=ffecd0b9-6e28-45b4-902a-5c534cd4083f",
   //   descr: "",
@@ -218,6 +226,7 @@ export const Events = [
     headNo: "9995210889",
     sub1No: "9074067501",
     sub2No: "9037382089",
+    link: "https://docs.google.com/forms/d/1Y9bVj2z9N3bEz5s6nAZZc79HA8hp1k1TyRUJTrw_C3o/edit?vc=0&c=0&w=1&flr=0",
     poster:
       "https://firebasestorage.googleapis.com/v0/b/pratitya-6b78c.appspot.com/o/Event-posters%2FMalayali%20Manka%20%26%20Kerala%20Sreeman.jpg?alt=media&token=5e78ae45-6a39-494e-9df3-67548caf47eb",
     descr:
@@ -233,6 +242,7 @@ export const Events = [
     headNo: "9048064386",
     sub1No: "7025711266",
     sub2No: "8139066019",
+    link: "https://forms.gle/xfWLFXAWfSiRHhnT6",
     poster:
       "https://firebasestorage.googleapis.com/v0/b/pratitya-6b78c.appspot.com/o/Event-posters%2FHappy%20Days%20-%20Moments%20to%20Cherish.jpg?alt=media&token=1dd9b15b-86e0-40da-b586-2a4d582afea9",
     descr:
@@ -248,6 +258,7 @@ export const Events = [
     headNo: "9447944868",
     sub1No: "9074791614",
     sub2No: "7994214972",
+    link: "https://forms.gle/EDX4gxuTc5MdXqtT9",
     poster:
       "https://firebasestorage.googleapis.com/v0/b/pratitya-6b78c.appspot.com/o/Event-posters%2FPottery%20Art%20Competiton.jpg?alt=media&token=09461ce6-8477-4268-9998-6bc4ad8839ad",
     descr:

@@ -11,7 +11,8 @@ function Navbar() {
     <div className='Navbar'>
         <div className="logo-class">
           {/* SAINTGITS LOGO URL HERE */}
-            <img src={"https://firebasestorage.googleapis.com/v0/b/pratitya-6b78c.appspot.com/o/logo.png?alt=media&token=0b87dbfd-7f60-46dc-969f-4bf189bb292b"} className='sg-logo' onClick={()=>navigate("/")}/>
+            <img src={"https://firebasestorage.googleapis.com/v0/b/pratitya-6b78c.appspot.com/o/Saintgits%20New%20logo%20PNG.png?alt=media&token=88eaefbb-636d-4dd6-9070-69100405057c"} className='sg-logo' onClick={()=>navigate("/")}/>
+            
             {/* PRATITYA LOGO */}
             <img src={"https://firebasestorage.googleapis.com/v0/b/pratitya-6b78c.appspot.com/o/logo.png?alt=media&token=0b87dbfd-7f60-46dc-969f-4bf189bb292b"} className='logo' onClick={()=>navigate("/")}/>
         </div>

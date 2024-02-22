@@ -2,7 +2,6 @@ import React from 'react'
 import "./RecCard.css"
 
 function RecCard(props) {
-  console.log(props.event)
   const Event=props.event
   
   return (

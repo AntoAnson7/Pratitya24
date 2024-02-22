@@ -1,24 +1,26 @@
-import React from 'react'
+
 import "./Home.css"
-import Carousel from "../components/Carousel"
+import YouTube from "react-youtube";
+// import Carousel from "../components/Carousel"
 import {Contact} from "../components/Contact"
 import { Footer } from "../components/Footer";
-
+import React, { useState } from 'react';
 function Home() {
-  const slides = [
-    {
-      src: "https://firebasestorage.googleapis.com/v0/b/pratitya-6b78c.appspot.com/o/FOT02849-min.jpg?alt=media&token=aac0f6ec-0629-4290-9326-eb7d8feb2bb7",
-      alt: 'Slide 1'
-    },
-    {
-      src:  "https://firebasestorage.googleapis.com/v0/b/pratitya-6b78c.appspot.com/o/FOT02873-min.jpg?alt=media&token=e7ca2317-6b07-4d76-92d0-2fa3ceb8bed9",
-      alt: 'Slide 2'
-    },
-    {
-      src: "https://firebasestorage.googleapis.com/v0/b/pratitya-6b78c.appspot.com/o/FOT02926-min.jpg?alt=media&token=153dc518-7082-463d-938f-24fcbfe03205",
-      alt: 'Slide 3'
-    },
-  ];
+  const [videoId, setVideoId] = useState("LPIqrfK7auk");
+  // // const slides = [
+  //   {
+  //     src: "https://firebasestorage.googleapis.com/v0/b/pratitya-6b78c.appspot.com/o/FOT02849-min.jpg?alt=media&token=aac0f6ec-0629-4290-9326-eb7d8feb2bb7",
+  //     alt: 'Slide 1'
+  //   },
+  //   {
+  //     src:  "https://firebasestorage.googleapis.com/v0/b/pratitya-6b78c.appspot.com/o/FOT02873-min.jpg?alt=media&token=e7ca2317-6b07-4d76-92d0-2fa3ceb8bed9",
+  //     alt: 'Slide 2'
+  //   },
+  //   {
+  //     src: "https://firebasestorage.googleapis.com/v0/b/pratitya-6b78c.appspot.com/o/FOT02926-min.jpg?alt=media&token=153dc518-7082-463d-938f-24fcbfe03205",
+  //     alt: 'Slide 3'
+  //   },
+  // ];
   return (
     <div className='Home'>
         <div className="r1">
@@ -30,7 +32,7 @@ function Home() {
           </div>
           <div className="r2-content">
           <div className='r2-carousel'>
-              <Carousel slides={slides} />
+          <YouTube videoId={videoId} opts={{ width: '220%', height:'100%' }} />
           </div>
           
           <div className="r2-text">
