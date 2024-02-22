@@ -7,13 +7,17 @@ import Navbar from "./components/Navbar";
 import Events from "./components/Events";
 import Register from "./components/Register";
 import Results from "./components/Results";
+import { useEffect } from "react";
+import Redir from "./components/Redir";
 
 function App() {
+  useEffect(() => {}, []);
   return (
     <div className="App">
       <Router>
         <Navbar />
         <Routes>
+          <Route path="/" element={<Redir />} />
           <Route path="/Pratitya24" element={<Home />} />
           <Route path="/events" element={<Events />} />
           <Route path="/Register/:id" element={<Register />} />
