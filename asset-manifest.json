@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Pratitya24/static/css/main.54a14e90.css",
-    "main.js": "/Pratitya24/static/js/main.5d91f7bb.js",
+    "main.js": "/Pratitya24/static/js/main.9b04ac26.js",
     "static/media/Bismillah Script.ttf": "/Pratitya24/static/media/Bismillah Script.52eca5530f1fd49f036c.ttf",
     "index.html": "/Pratitya24/index.html",
     "main.54a14e90.css.map": "/Pratitya24/static/css/main.54a14e90.css.map",
-    "main.5d91f7bb.js.map": "/Pratitya24/static/js/main.5d91f7bb.js.map"
+    "main.9b04ac26.js.map": "/Pratitya24/static/js/main.9b04ac26.js.map"
   },
   "entrypoints": [
     "static/css/main.54a14e90.css",
-    "static/js/main.5d91f7bb.js"
+    "static/js/main.9b04ac26.js"
   ]
 }
