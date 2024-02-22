@@ -25,6 +25,7 @@ export const Events = [
     headNo: "7994332551",
     sub1No: "8078261284",
     sub2No: "7994091096",
+    link: "https://forms.gle/vAu9LezRuJMAXBS87",
     poster:
       "https://firebasestorage.googleapis.com/v0/b/pratitya-6b78c.appspot.com/o/Event-posters%2FBC-min.jpg?alt=media&token=9b55f69a-8cab-4212-aede-f2a85df80c6d",
     descr:
@@ -49,15 +50,16 @@ export const Events = [
   {
     //UPD
     id: "pt04",
-    name: "Click it",
+    name: "Picture perfect",
     head: "Alen Biju Thomas ",
     sub1: "Aron Alex",
     sub2: "Amal Babu",
     headNo: "9526468452",
     sub1No: "9567234600",
     sub2No: "8590910336",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSdWEP4rYDtzucy-yPbcrztU7wQXbsihGcwpx6LeD2yeBeEN3w/viewform",
     poster:
-      "https://firebasestorage.googleapis.com/v0/b/pratitya-6b78c.appspot.com/o/Event-posters%2FClickit-min.jpg?alt=media&token=03e688bb-34e1-4ded-be07-ed2380552cfd",
+      "https://firebasestorage.googleapis.com/v0/b/pratitya-6b78c.appspot.com/o/Event-posters%2FPicture%20Perfect-min.jpg?alt=media&token=f9e3874b-9077-4054-bc55-64ea9edd7ad0",
     descr:
       "A theme will be published on a particular topic and students have to submit pictures that resembles the given topic accurately. This will be posted on the photography page. The pictures will be analysed by judges and the picture that resembles the topic in the best way will selected for first and second prize",
   },
@@ -71,6 +73,7 @@ export const Events = [
     headNo: "9074300849",
     sub1No: "96569 96744",
     sub2No: "94961 26559",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSeSNWQWYk8GlPhIlgTOhsOTdabFVENcNAmJoQWqUjOXt6TTVg/viewform",
     poster:
       "https://firebasestorage.googleapis.com/v0/b/pratitya-6b78c.appspot.com/o/Event-posters%2FMarketSelling-min.jpg?alt=media&token=551c30c3-6852-48b0-ab36-789246e821d9",
     descr:
@@ -79,22 +82,23 @@ export const Events = [
   {
     //UPD
     id: "pt06",
-    name: "Star of Saintgits",
+    name: "Mirage Maestro",
     head: "Lea Sony Jacob",
     sub1: "Reuben Punnoose Abraham",
     sub2: "Naveen Prince Thomas",
     headNo: "7510127911",
     sub1No: "9400396507",
     sub2No: "9188327753",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLScMUx9o-sQG_RKAIaO1vyjAEcdJqr33z7rTPUHIsGZH-NWyIg/viewform",
     poster:
-      "https://firebasestorage.googleapis.com/v0/b/pratitya-6b78c.appspot.com/o/Event-posters%2Fsos-min.jpg?alt=media&token=cb584cb8-d259-494d-a801-1fdad0a1a37a",
+      "https://firebasestorage.googleapis.com/v0/b/pratitya-6b78c.appspot.com/o/Event-posters%2FMirage%20Maestro-min.jpg?alt=media&token=592e78a5-23bf-42ae-9cba-47f4d174d94b",
     descr:
       "Get ready for an unforgettable day filled with entertainment and excitement. Chase your dreams and reach for the stars! Don't miss out on this incredible opportunity to be a part of something truly special. Unveil your star power at 'Star of Saintgits' -  the epitome of Pratitya '24Prize pool  First - 2000/- Second - 500/- Rules 1. There will be screening and prelims before the final round 2. The shortlisted participants will enter into the final round which will be conducted in the main stage. 3. The skill, personality, behavior and intelligence of the shortlisted participants will be tested through different rounds 4. The ultimate evaluation of the judges willÂ beÂ theÂ final",
   },
   {
     //UPD
     id: "pt07",
-    name: "Speed Typing",
+    name: "Fast Fingers Fiesta",
     head: "Sreyas Raj P",
     sub1: "Alinae Ann Shibu",
     sub2: "Siffin Saji",
@@ -103,14 +107,14 @@ export const Events = [
     sub2No: "8086839854",
     link: "https://forms.gle/hDJa2Y6AyxGL4qx28",
     poster:
-      "https://firebasestorage.googleapis.com/v0/b/pratitya-6b78c.appspot.com/o/Event-posters%2Fst-min.jpg?alt=media&token=820df542-4364-448e-840e-4635ef5d0732",
+      "https://firebasestorage.googleapis.com/v0/b/pratitya-6b78c.appspot.com/o/Event-posters%2FFast%20Fingers%20Fiesta-min.jpg?alt=media&token=ab95c2b6-0731-49df-8b6c-2c80846a170e",
     descr:
       "Get your fingers ready for the ultimate Speed Typing Event! Join us for an exhilarating competition where typists go head-to-head in a battle of words-per-minute supremacy. From seasoned professionals to lightning-fast amateurs, this event is open to all who dare to test their typing skills. With exciting rounds and challenging prompts, participants will race against the clock to showcase their speed and accuracy. Set in a high-energy atmosphere, the keyboards will be clicking and the adrenaline will be pumping as competitors vie for the coveted title of fastest typist. Whether you're a typing aficionado or just looking for a thrilling experience, come be a part of the excitement at our Speed Typing Event",
   },
   {
     //UPD
     id: "pt08",
-    name: "Treasure Hunt",
+    name: "Arabian Quest",
     head: "Sneha Susan Rajesh ",
     sub1: "8547914287",
     sub2: "Aparna Anil",
@@ -119,7 +123,7 @@ export const Events = [
     sub2No: "80787 55911",
     link: "https://docs.google.com/forms/d/e/1FAIpQLSetxBnh6OLJIWGuexNs_4Fz0OTH9qYCbR9QGu468_VwXRH4tA/viewform",
     poster:
-      "https://firebasestorage.googleapis.com/v0/b/pratitya-6b78c.appspot.com/o/Event-posters%2FTh-min.jpg?alt=media&token=e57ae740-ff91-466f-b90f-cd6735babd31",
+      "https://firebasestorage.googleapis.com/v0/b/pratitya-6b78c.appspot.com/o/Event-posters%2FArabian%20Quest-min.jpg?alt=media&token=05332a6c-ecd7-4f8e-b8c8-a51eddf8c5b2",
     descr:
       "ARABIAN QUEST (TREASURE HUNT) Embark on a magical treasure hunt inspired by Arabian Nights! Follow clues, solve riddles, and explore the campus through the enchanting theme of the East. Uncover the hidden treasure that awaits as you delve into the mysteries of this captivating adventure. Get ready for an exciting journey filled with the charm and wonder of Arabian Nights!Round 1: Quiz and Puzzles Kick off the treasure hunt with a challenging quiz covering general knowledge and puzzles. Round 2: Individual Challenges Indulge in four distinct games tailored for individual participants. Round 3: Campus Quest for Hidden Treasures Embark on a campus-wide scavenger hunt as clues are scattered throughout. Work together to uncover and solve the hidden messages, navigating the college grounds in search of the ultimate treasure. Rules and Regulations - Each team must consist of 4  participants. - Each round has a specified time limit. Teams must complete the challenges within the allocated time. - The organizers' decisions are final. Any disputes or concerns should be brought to the attention of the event organizers for resolution. - In the event of a tie at any stage of the treasure hunt, the team that submitted their answers or completed the round first will advance to the next stage.",
   },
@@ -134,8 +138,9 @@ export const Events = [
     headNo: "9778256321",
     sub1No: "8590882397",
     sub2No: "7736730941",
+    link: "https://forms.gle/R4YyCmE4jeJo5qMF7",
     poster:
-      "https://firebasestorage.googleapis.com/v0/b/pratitya-6b78c.appspot.com/o/Event-posters%2FStory%20Telling%20Competition-min.jpg?alt=media&token=9835cd6a-9ab4-41f3-a33b-d302f4c29706",
+      "https://firebasestorage.googleapis.com/v0/b/pratitya-6b78c.appspot.com/o/Event-posters%2FJewels%20of%20Jinn-min.jpg?alt=media&token=2fdf278d-4602-4da3-abc6-685fb2111391",
     descr:
       "Step into a world of imagination at our Storytelling Competition! Embark on a journey where words come to life and tales unfold before your very eyes. From enchanting fairy tales to gripping mysteries, our event showcases the art of storytelling in all its glory. Whether you're a seasoned raconteur or a budding wordsmith, this competition welcomes storytellers of all ages and backgrounds to share their narratives. Set in a cozy setting, surrounded by eager listeners, participants will weave their magic with every word, captivating the audience with their creativity and charisma. Join us for an evening of wonder and enchantment as we celebrate the power of storytelling and crown the next master storyteller!",
   },
@@ -189,7 +194,7 @@ export const Events = [
   {
     //UPD
     id: "pt13",
-    name: "Play Station",
+    name: "Hadhaf",
     head: "Aben B John",
     sub1: "Akash Babu",
     sub2: "Antony Sebastian",
@@ -202,27 +207,28 @@ export const Events = [
     descr:
       "Welcome to the electrifying EA FC 24 Tournament, where 16 solo teams collide in a thrilling single-round elimination on the cutting-edge PlayStation 5. Held in a vibrant college atmosphere, the anticipation is palpable as gamers showcase their skills, executing precise passes and daring attacks in high-stakes matches.EA FC 24 isn't just a tournament; it's a celebration of gaming culture within the college community. Spectators immerse themselves in the competitive spirit, witnessing individual talents shine and a sense of community fostered through friendly rivalry. Get ready for a rollercoaster of virtual soccer excitement at EA FC 24, as players aim to dribble, shoot, and score their way to glory in the heart of the college gaming scene. Don't miss this gaming spectacle!Prize Pool - 2k 1st-1500 2nd-500 Rules and Regulations ~The event is open to all years under SCE ~Every match will be a knockout ~Players cannot use custom teams(World XI..etc) ~Any violation of rules leads to disqualification ~Games will be 3 min per half except semifinal and final ~If game ends in a draw it forwards directly to penalties in knockout games except semi and final Game settings: Injuries: on Offside : on Defensive mode : Tactical (legacy is not allowed)",
   },
-  // {
-  //   id: "pt14",
-  //   name: "Brown Hues",
-  //   head: "Rachel Varghese ",
-  //   sub1: "Christy alphonsa sheri",
-  //   sub2: "Taniya Anna Jacob ",
-  //   headNo: "8281601815",
-  //   sub1No: "7736896976",
-  //   sub2No: "7510704508",
-  //   link:"https://forms.gle/uFUGR8VagTc2i3dA9",
-  //   poster:
-  //     "https://firebasestorage.googleapis.com/v0/b/pratitya-6b78c.appspot.com/o/2%20(1).png?alt=media&token=ffecd0b9-6e28-45b4-902a-5c534cd4083f",
-  //   descr: "",
-  // },
+  {
+    id: "pt14",
+    name: "Brown Hues",
+    head: "Rachel Varghese ",
+    sub1: "Christy alphonsa sheri",
+    sub2: "Taniya Anna Jacob ",
+    headNo: "8281601815",
+    sub1No: "7736896976",
+    sub2No: "7510704508",
+    link: "https://forms.gle/uFUGR8VagTc2i3dA9",
+    poster:
+      "https://firebasestorage.googleapis.com/v0/b/pratitya-6b78c.appspot.com/o/Event-posters%2FBrown%20Hues-min.jpg?alt=media&token=f0901273-5326-492e-8a1b-d1f3d64e934b",
+    descr:
+      "BROWN HUES Welcome to Brown Hues, where creativity meets tradition in our mehndi competition! Join us as artists showcase your skills in intricate designs, celebrating the rich cultural heritage of mehndi. Get ready to see various shades of brown showcased on hands. RULES AND REGULATIONS 1. Invite your colleagues or friends to participate in this competition and apply mehndi on their hands, as we are not providing any students for this competition. 2. Make sure your colleagues or friends do not have any allergies to it before participating. 3. Participants will be provided with a mehndi design which they must complete within one hours.4. This competition will consist of only one round",
+  },
   {
     //UPD
     id: "pt15",
     name: "Malayali Manka Kerala Sreeman",
     head: "Aiswarya Sreekumar ",
-    sub1: "",
-    sub2: "Rohith H R",
+    sub1: "Elmin Jijo",
+    sub2: "R S Akshaya",
     headNo: "9995210889",
     sub1No: "9074067501",
     sub2No: "9037382089",
@@ -260,7 +266,7 @@ export const Events = [
     sub2No: "7994214972",
     link: "https://forms.gle/EDX4gxuTc5MdXqtT9",
     poster:
-      "https://firebasestorage.googleapis.com/v0/b/pratitya-6b78c.appspot.com/o/Event-posters%2FPottery%20Art%20Competiton.jpg?alt=media&token=09461ce6-8477-4268-9998-6bc4ad8839ad",
+      "https://firebasestorage.googleapis.com/v0/b/pratitya-6b78c.appspot.com/o/Event-posters%2FArabian%20Pottery-min.jpg?alt=media&token=176d1753-98cf-4c24-a1f7-8399904a8d39",
     descr:
       "Event name - Arabian Pottery(pottery art competition) caption - pottery: where art meets clay prize - 1000    venue - tbd  time - tbd Rules: 1) All artwork shall be done and completed by the artist him/herself within the given time 2) All the items will be provided 3) Pot should not be broken",
   },
@@ -275,9 +281,74 @@ export const Events = [
     headNo: "8547433566",
     sub1No: "9744460216",
     sub2No: "7034602926",
+    link: "https://forms.gle/z5czBpyvPbAvKVxe8",
     poster:
       "https://firebasestorage.googleapis.com/v0/b/pratitya-6b78c.appspot.com/o/Event-posters%2FStand%20up%20comedy-min.jpg?alt=media&token=b74eaa9d-5b16-41ee-8b50-e65a689b0fbf",
     descr:
       "Warning : This event may cause uncontrollable laughter Rules And Regulations 1.Individual Competition: This is a solo performance event. 2.Time Limit: Each participant is allowed a maximum of 4-5 minutes for their act. 3. Judging Criteria:   . Content: Originality and quality of the material presented.   . Fluency: Smooth delivery and coherence in performance .   .  Spontaneity: Ability to engage  the audience with impromptu humor.   . Presentation: Stage presence, body language, and overall performance.   . Sense of Humor: The ability to evoke genuine laughter. 4.Content Restrictions:   . Participants are prohibited from targeting any individual or religion in any manner.   . Dual meaning obscene content is strictly not allowed. 5. Time Management: Participants must adhere to the specified time limit. Exceeding the time limit will result in negative marking. 6. Judges' Decision: The decision of the judges is final and binding. 7. Cosplay : Cosplay is permitted to assist participants in improving their content (optional) Participants are encouraged to bring their best comedic skills while adhering to these rules. Let the laughter begin!",
+  },
+  {
+    //UPD
+    id: "pt19",
+    name: "Artistry Unleashed",
+    head: "Alex Cyriac Antony",
+    sub1: "Adarsh KV",
+    sub2: "Amal Achankunju",
+    headNo: "7561009838",
+    sub1No: "9895630729",
+    sub2No: "8137978741",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSeQ1z9FHAuvwR_AynKZPvy0ijFMGqMQHem8XtcstU2BrUDWYg/viewform?usp=pp_url",
+    poster:
+      "https://firebasestorage.googleapis.com/v0/b/pratitya-6b78c.appspot.com/o/Event-posters%2FArtistry%20Unleashed-min.jpg?alt=media&token=14b353d5-ff88-443a-a68d-240dae37141e",
+    descr:
+      "Artistry Unleashed invites audiences to embark on a journey where art becomes a language of its own, transcending boundaries and sparking inspiration in the hearts of all who behold it.",
+  },
+  {
+    //UPD
+    id: "pt20",
+    name: "Best Manager",
+    head: "Amal Hubert",
+    sub1: "Amith Varghese Cheriyan",
+    sub2: "Goutham G Nair",
+    headNo: "8129222034",
+    sub1No: "7558846485",
+    sub2No: "8590366782",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSeNvygNdCEBWm11S_8L8trqvDj2fl0G2K8FwFYaSDGIN-LThg/viewform?usp=sf_link",
+    poster:
+      "https://firebasestorage.googleapis.com/v0/b/pratitya-6b78c.appspot.com/o/Event-posters%2FBest%20Manager-min.jpg?alt=media&token=603e6595-d1b0-41fa-8188-737614a3d44b",
+    descr:
+      "BEST MANAGER Leading the way: The Search for the Best Manager Rules and Regulations:- The event will be held over 3 rounds Prelims: Semi finals Finals*Judge's decision would be final *Participants must be on time for all rounds or else maybe disqualified *Use of Internet for prelims is not allowed *The first and second winners will be awarded with cash prize and all participants will be awarded certificates",
+  },
+  {
+    //UPD
+    id: "pt21",
+    name: "Instrumental Music Competition",
+    head: "Abram Sudin",
+    sub1: "Aditya Pillai",
+    sub2: "Dennis Fernandez",
+    headNo: "8075469550",
+    sub1No: "8010962164",
+    sub2No: "8921346497",
+    link: "https://forms.gle/DJyZVcmtPXfgLNE79",
+    poster:
+      "https://firebasestorage.googleapis.com/v0/b/pratitya-6b78c.appspot.com/o/Event-posters%2FInstrumental%20Music-min.jpg?alt=media&token=b8600193-cc36-4d0e-ad8a-56bd4a8f5981",
+    descr:
+      "Experience the thrill of BEST INSTRUMENTAL brought to you by Pratitya '24! It's your chance to shine on stage and share your musical talent with the world. Registration is closing soon on 22/02/2024, so don't wait any longer! Whether you're a seasoned musician or just starting out, this event is open to all students. Plus, there are cash prizes awaiting the top two performers! Review the rules and secure your spot by registering now",
+  },
+  {
+    //UPD
+    id: "pt22",
+    name: "Nrithya",
+    head: "Saaniya  Vipin ",
+    sub1: "Anjana B ",
+    sub2: "Ayina Kalam",
+    headNo: "7736689169",
+    sub1No: "7736192219",
+    sub2No: "8590900257",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSc2HNKdOwoNJzxBu7CBdAaWi9Gt0FLcxFeTqSWFLvtFJbDOmw/viewform?usp=sf_link",
+    poster:
+      "https://firebasestorage.googleapis.com/v0/b/pratitya-6b78c.appspot.com/o/Event-posters%2FNrithya-min.jpg?alt=media&token=bca84f10-b1b8-4109-a88d-99ebccbc53f3",
+    descr:
+      "Bharathanatyam competition - NRITHYA Bharatanatyam: Where tradition meets expression in every step. Rules and Regulations : . The event is open to all years under SCE. ⁠There must be a minimum number of 3 participants . ⁠Maximum time given for each participant is 15 minutes  . ⁠A cool off time of 30 seconds is given to each participant   . ⁠Incase of discrepancies decision of judges will be final",
   },
 ];

@@ -66,11 +66,19 @@ body{
 }
 .r2-carousel iframe{
     display: flex;
-
-    border-radius: 20px;
-    
+    border-radius: 20px; 
 }
 .slide{
+    display: flex;
+    justify-content: start;
+}
+.r2-content{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+.r2-carousel{
+    width: 50vw;
     display: flex;
     justify-content: start;
 }
@@ -95,6 +103,7 @@ body{
         background-color: #1a0300;
     }
     .r2-text{
+        display: block;
         width: auto;
         height: auto;
         font-size: 20px;

@@ -8,7 +8,7 @@ import { useNavigate } from 'react-router-dom'
    return (
     <div className='Events'>
       <div className="heading">Events</div>
-      <button className='res' onClick={()=>nav("/events/results")}>Results</button>
+      {/* <button className='res' onClick={()=>nav("/events/results")}>Results</button> */}
     <div className='New1'>
       <Card/>
     </div>

@@ -32,7 +32,7 @@ function Home() {
           </div>
           <div className="r2-content">
           <div className='r2-carousel'>
-          <YouTube videoId={videoId} opts={{ width: '220%', height:'100%' }} />
+            <YouTube videoId={videoId} opts={{ width: '220%', height:'100%' }} />
           </div>
           
           <div className="r2-text">
